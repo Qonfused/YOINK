@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use YOINK in your research, please cite it using this metadata."
+title: "YOINK, Yielding Optimized Inductive Knowledge"
+abstract: YOINK is an open-source framework for tuning smarter and cheaper large-language models. The project aims to (i) replicate capabilities of larger closed-source Large-Language-Models (LLMs) through various transfer-learning techniques, (ii) explore better strategies for generating diverse instruction data, and (iii) provide an extensible model architecture and API to facilitate academic research on large-language models. YOINK is developed in Tensorflow with API compatibility for JAX + Flax.
+authors:
+- family-names: "Bennett"
+  given-names: "Cory"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7810157
+    description: The concept DOI for the collection containing all versions of the Citation File Format.
+date-released: "2023-03-06"
+license: "Apache-2.0"
+doi: 10.5281/zenodo.7810157
