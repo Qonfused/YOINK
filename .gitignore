@@ -1,0 +1,9 @@
+.*
+!/.devcontainer/
+!/.github/
+!/.gitattributes
+!/.gitignore
+
+# Omit internal config / private files
+/internal
+**/private
